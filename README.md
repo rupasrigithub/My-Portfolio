@@ -23,3 +23,6 @@ git clone https://github.com/yourusername/My-Portfolio.git
 2)Navigate to the project directory:
 cd My-Portfolio
 Open the index.html file in your browser or follow the deployment instructions to view it online.
+
+
+![image](https://github.com/user-attachments/assets/1eec841b-9a77-43f6-837c-4a9b95c7796b)
