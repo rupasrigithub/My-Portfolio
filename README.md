@@ -4,19 +4,31 @@ My-Portfolio
 Welcome to my personal portfolio! This project showcases my skills, projects, and experiences as a developer. It serves as an online resume where you can learn more about me, the technologies I work with, and the projects I’ve developed.
 
 Features
+
 About Me: A section to introduce myself and highlight my background, interests, and expertise.
+
+
 Skills: A showcase of the technologies I am proficient in, including web development, programming languages, and tools.
+
+
 Projects: A detailed display of the key projects I've worked on, including descriptions, technologies used, and links to the source code or live demos.
+
+
 Contact: A section where visitors can reach out to me via email or social media platforms.
 
 
 Technologies Used
+
 Frontend: HTML, CSS, JavaScript, React (optional: mention any frameworks or libraries used).
+
 Backend (if applicable): Node.js, Express, MongoDB (or any other technologies used).
+
 Version Control: Git and GitHub for managing and showcasing code.
+
 Deployment: Hosted on [platform name] (e.g., GitHub Pages, Netlify, etc.).
 
 1)How to Use
+
 Clone the repository:
 git clone https://github.com/yourusername/My-Portfolio.git
 
