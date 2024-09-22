@@ -26,3 +26,9 @@ Open the index.html file in your browser or follow the deployment instructions t
 
 
 ![image](https://github.com/user-attachments/assets/1eec841b-9a77-43f6-837c-4a9b95c7796b)
+
+
+![image](https://github.com/user-attachments/assets/89070ccd-f088-4e70-ae84-03e799daa8e8)
+
+![image](https://github.com/user-attachments/assets/3befca65-5f97-4d1d-8f3c-fdc6394e38e8)
+
